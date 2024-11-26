@@ -1,20 +1,5 @@
-// import logo from './logo.svg';
 import './App.css';
-// import Header from './Header';
-// import {Route, Routes} from 'react-router-dom';
-// import Home from './Home';
-// import Section from './Section';
-// import About from './About';
-// import Contact from './Contact';
-// import Header1 from './Header1';
-// import Register from './Register';
-// import Login from './Login';
-// import Header12 from './Header1';
- import './headerstyle.css';
 import Employee from './Employee';
-//  import { useState } from 'react';
-// import Example from './Modal';
-// import { Test } from './Use_effect';
 
 
 
